@@ -1,12 +1,7 @@
-# CS6530_Assignment_1
+# Demonstrate FPE with a block cipher
+
 <p>
-Name: Snigdha Bose</br>
-Roll number: CS21M502</br>
-Registered Mail ID: snigdhab7@gmail.com</br>
-</p>
-<p>
-<b>Aim-</b> </br>
-Demonstrate FPE with any block cipher of your choice used as a block cipher.</br>
+</br>
 <b>Solution-</b></br>
 Format Preserving Encryption algorithm FF3 is implemented using DES. Parameters are plaintext, tweak, key and radix (10). The code is taking user input for text to encrypt.</br>
 </p>
