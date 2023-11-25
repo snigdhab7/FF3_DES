@@ -1,4 +1,4 @@
-# Format Preserving Encryption (FPE) with FF3 Algorithm 🛡️
+# Format Preserving Encryption(FPE) with FF3 Algorithm 🛡️
 
 ## Overview
 
