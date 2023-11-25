@@ -24,7 +24,7 @@ After decryption- plaintext: 76476835636537
 ## Clone the Repository:
 
 ```bash
-git clone <repository_link>
+git clone https://github.com/snigdhab7/FF3_DES.git
 ```
 
 ### Import Project:
