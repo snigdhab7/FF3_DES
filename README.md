@@ -1,18 +1,43 @@
-# Demonstrate FPE with a block cipher
+# Format Preserving Encryption (FPE) with FF3 Algorithm 🛡️
 
-<p>
-</br>
-<b>Solution-</b></br>
-Format Preserving Encryption algorithm FF3 is implemented using DES. Parameters are plaintext, tweak, key and radix (10). The code is taking user input for text to encrypt.</br>
-</p>
-<p>
- Note: Input should be 16 digits</br>
-  <b>SAMPLE OUTPUT</b> </br>
--------------------FF3 using DES--------------------</br>
-Please enter text to encrypt: 76476835636537</br>
-After enryption- ciphertext: 72488361285509</br>
-After decryption- plaintext: 76476835636537</br>
-</p>
+## Overview
 
-Steps to run-</br>
-[clone git ptoject -> import project->build->right click on FF3.java ->Run As-> Java Application]
+Demonstrate Format Preserving Encryption using the FF3 algorithm with DES. The solution encrypts and decrypts user-provided text, showcasing the capabilities of FPE in maintaining the format of the input.
+
+## Features 🚀
+
+- **FF3 Algorithm:** Implements the FF3 algorithm for Format Preserving Encryption.
+- **User Interaction:** Allows users to input text for encryption and provides the corresponding ciphertext.
+- **Demonstration:** A sample run demonstrating encryption and decryption with provided input.
+
+## Sample Output
+
+```plaintext
+-------------------FF3 using DES--------------------
+Please enter text to encrypt: 76476835636537
+After encryption- ciphertext: 72488361285509
+After decryption- plaintext: 76476835636537
+````
+
+# Getting Started 🏁
+
+## Clone the Repository:
+
+```bash
+git clone <repository_link>
+```
+
+### Import Project:
+
+Open your preferred Java IDE.
+Import the project into your IDE.
+
+### Build:
+Build the project.
+
+### Run:
+Right-click on FF3.java.
+Select "Run As" -> "Java Application."
+
+# Contributing 🤝
+Contributions are welcome! Feel free to open issues and pull requests.
