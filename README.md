@@ -21,7 +21,7 @@ After decryption- plaintext: 76476835636537
 
 # Getting Started 🏁
 
-## Clone the Repository:
+### Clone the Repository:
 
 ```bash
 git clone https://github.com/snigdhab7/FF3_DES.git
